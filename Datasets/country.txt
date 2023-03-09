@@ -1,0 +1,6 @@
+Country    Capital   Currency
+Bangladesh Dhaka     Taka
+India      New-Delhi  Rupee
+Nepal      Katmundu   Rupee
+Saudia-Arabia Riyad   Riyal
+USA        New-York   Dollar
